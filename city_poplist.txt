@@ -1,0 +1,25 @@
+Amunes, Metropolis
+Anabasis, City
+Headway, Metropolis
+Impetus, Metropolis
+Reprise, City
+Vanguard, City
+Capreola, Village
+Chofaber, Village
+Cowen Spring, Hamlet
+Debnoss, Town
+Demerick, Hamlet
+Firstview, Village
+Fort Totten, City
+Lilia, Village
+New Nevoy, Town
+Paradise, Hamlet
+Peshkar, City
+Razok, Village
+Rankin, Hamlet
+Rybuk's Hold, Village
+Sares Hill, Hamlet
+Stony Point, Village
+Talu Shore, Town
+Tandridge, Town
+Zacchat, Town

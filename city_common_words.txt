@@ -1,0 +1,9 @@
+common
+town
+city
+home
+household
+house
+center
+place
+residence

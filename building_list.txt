@@ -1,0 +1,2 @@
+Name of Building, Associated words, separated by commas
+Tavern, tavern, meeting house, refinery, brewery, revelry, pub, dive, bar

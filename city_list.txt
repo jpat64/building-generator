@@ -1,0 +1,2 @@
+City Name, words related to City, separated by commas
+Amunes, middle, center, market, coast, trade, wide, open, free, smack dab
